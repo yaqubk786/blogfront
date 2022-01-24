@@ -1,0 +1,72 @@
+*{
+    /* text-align: center; */
+}
+.post-text{
+    height: 400px;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+}
+.p-desc{
+ text-align: center;
+}
+.foot{
+    background-color: lightgray;
+    height: 468px;
+    width: 1348px;
+    margin-left: -117px;
+
+    margin-top: 50px;
+}
+.boypic{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+}
+.l-box{
+    background-color: white;
+}
+.p-time{
+    color: grey;
+}
+.boy-img{
+    border-style: solid;
+    border-width: 1px;
+}
+.dates{
+    color: grey;
+}
+.fab{
+    color: grey;
+}
+.c-btn{
+    height: 20px;
+    width: 30px;
+}
+.fa-sign-language{
+    color: gray;
+    font-size: 20px;
+    cursor: pointer;
+}
+.aa{
+    margin-left: 298px;
+     
+     /* margin: auto; */
+}
+.abcd{
+    background-color: lightgray;
+    margin: 10px;
+    border-style: solid;
+    border-width: 0;
+}
+.t-hrs{
+    margin-left: 308px;
+    margin-right: 308px;
+
+}
+.wrt{
+    margin-top: 5px;
+    position: absolute;
+    margin-left: 10px;
+}

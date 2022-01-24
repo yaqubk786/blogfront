@@ -1,0 +1,43 @@
+.l-head{
+    /* position: relative; */
+    margin-left: 80px;
+    margin-top: 60px;
+}
+.l-hr{
+    background-color: red;
+    height: 1px;
+    margin-left: 80px;
+    margin-right: 1190px;
+}
+.l-div1 {
+    /* width: 1000px; */
+    height: 380px;
+    /* background-color: white; */
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top:50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+
+
+}
+.l-box{
+    height: 360px;
+    width: 100%; 
+    /* background-color: white; */
+    border-radius: 20px;
+    text-align: center;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+.lake-img{
+    width: 356px;
+    height: 160px;
+    border-radius: 20px 20px 0 0;
+
+}
+.text{
+
+}

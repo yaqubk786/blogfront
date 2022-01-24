@@ -1,0 +1,46 @@
+.ar-head{
+    /* position: relative; */
+    /* margin-left: 80px; */
+    margin-top: 60px;
+}
+.ar-hr{
+    background-color: red;
+    height: 1px;
+    /* margin-left: 80px;
+    margin-right: 1190px; */
+}
+.ar-hr1{
+       /* margin-left: 80px; 
+       margin-right: 460px; */
+       margin-top: 20px;
+}
+.ar-div1{
+    background-color: white;
+    height: 150px;
+    /* margin-left: 80px;  */
+    word-wrap: break-word;
+    margin-top: 20px;
+
+}
+.ar-img{
+    height: 150px;
+    width: 300px;
+}
+.ar-text{
+    margin-left: 30px;
+    margin-top: 0px;
+    position: absolute;
+    font-size: 25px;
+}
+.ar-txt1{
+    margin-left: 30px;
+    margin-top: 85px;
+    position: absolute;
+    font-size: 18px;
+}
+
+.fas{
+    margin-left:80px ;
+    margin-top: 30px;
+    color: red;
+}

@@ -1,0 +1,40 @@
+.s-h1{
+    margin-top: 125px;
+    margin-left: 80px;
+}
+.s-hr1{
+    margin-left: 80px;
+    color: red;
+    margin-right: 1028px;
+}
+.s-hr2{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 25px;
+}
+.s-div1{
+    height: 290px;
+    /* width: 100%; */
+    /* background-color: salmon; */
+    margin-left: 80px;
+    margin-right: 80px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.schild{
+    height: 280px;
+    width: 290px;
+    background-color: seagreen;
+    background: transparent;
+    text-align: center;
+}
+.s-text{
+    margin-top: 30px;
+}
+.s-span{
+    color: grey;
+}
+.s-button{
+    margin-left: 80px;
+}

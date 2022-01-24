@@ -1,0 +1,10 @@
+.adv{
+    height: 500px;
+    background-color:white;
+    float: right;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-style: solid;
+    border-width: 2px; 
+}
